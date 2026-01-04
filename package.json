@@ -1,0 +1,14 @@
+{
+  "name": "url-generator",
+  "version": "1.0.0",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.0.0",
+    "nanoid": "^5.0.0"
+  }
+}
